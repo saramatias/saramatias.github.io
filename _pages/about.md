@@ -9,17 +9,16 @@
 
 I am a biomedical engineer and neuroscientist interested in deciphering the role of the neuromodulators dopamine and serotonin in learning and cognitive flexibility. I use neurophysiology and the machine learning framework of distributional reinforcement learning to elucidate the computational and neural circuit mechanisms through which they modulate learning, cognitive states, and behavioral adaptability. 
 
-I did my bachelor's and master's degrees in Biomedical Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal
+My research bridges the gap between biological and artificial intelligence.
 
-My research bridges the gap between biological and artificial intelligence. 
 
+I did my integrated master's degree (i.e. Bologna bachelor+master) in Biomedical Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/) in Lisbon, Portugal, and later joined the MIT-Portugal program to obtain my Ph.D. degree in Bioengineering Systems from a consortium of Portuguese universities. My graduate research was developed in the newly budding [Champalimaud Research](https://fchampalimaud.org/champalimaud-research) at the [Champalimaud Foundation](https://fchampalimaud.org/) under the supervision of Dr. Zachary F. Mainen. Since 2017 I have been a Posdoctoral Fellow with Prof. Naoshige Uchida at [Harvard University](https://www.harvard.edu/). I am affiliated to the [Center for Brain Science](https://cbs.fas.harvard.edu/) and the [Department of Molecular and Cellular Biology](https://www.mcb.harvard.edu/), where I have had the opportunity to collaborate with researchers from different schools.
+
+
+ 
 
 Research
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+
+My research
 
