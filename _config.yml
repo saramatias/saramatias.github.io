@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Sara Matias"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Sara Matias"
 description              : &description "Sara Matias Personal Page"
