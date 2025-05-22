@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "Sara Matias"
   pronouns         : "she/her" # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Cambridge"
+  bio              : "Postdoctoral Research Associate"
+  location         : "Cambridge, MA, USA"
   employer         : "Harvard University"
   uri              : https://saramatias.github.io # URL
   email            : "saramatias@fas.harvard.edu" 
@@ -221,7 +221,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
