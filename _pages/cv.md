@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+<embed src="/files/resume.pdf" type="application.pdf">
