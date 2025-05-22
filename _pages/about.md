@@ -7,6 +7,7 @@
  - /about.html
 ---
 
+<h2> About </h2>
 I am a biomedical engineer and neuroscientist interested in deciphering the role of the neuromodulators dopamine and serotonin in learning and cognitive flexibility. I use neurophysiology and the machine learning framework of distributional reinforcement learning to elucidate the computational and neural circuit mechanisms through which they modulate learning, cognitive states, and behavioral adaptability. 
 
 My research bridges the gap between biological and artificial intelligence.
@@ -19,8 +20,18 @@ Since 2017 I have been a Postdoctoral Fellow with Prof. Naoshige Uchida at [Harv
 
  
 
-**Research**
+<h2>Research Overview </h2>
 
+My research investigates how neuromodulatory systems — especially serotonin and dopamine — support learning, decision-making, and adaptive behavior in dynamic and/or uncertain environments. I use a combination of behavioral paradigms, neural circuit manipulations, large-scale recording techniques, and computational modeling rooted in reinforcement learning theory.
 
-My research
+As a Ph.D. student in Dr. Zachary Mainen’s lab at the Champalimaud Foundation, I focused on the role of serotonin in flexible behavior. I developed fiber photometry — now a widely used tool — to measure neural activity from specific cell populations <it>in vivo</it>, and applied it to study dorsal raphe serotonin neurons during a reversal learning task. We found that these neurons respond to both rewarding and aversive outcomes and adapt their activity when stimulus-outcome contingencies change. Compared to dopamine, serotonin signals o conditioned stimuli adapted more slowly following reversal, suggesting roles in behavioral inhibition and in uncertainty processing. These findings led us to propose that serotonin helps suppress outdated behaviors (i.e. perseverative errors) and supports model updating in changing environments. Our work culminated in several collaborative and first-author publications, including in <it>eLife</it>, <it>Nature Communications</it> and <it>PLOS ONE</it>.
 
+During my postdoctoral training with Prof. Naoshige Uchida at Harvard University, I have been probing how distributional reinforcement learning (dRL) — a new framework in which agents learn not just average expected rewards, but full distributions of possible outcomes — is implemented in the dopamine-basalcganglia circuit. My experiments revealed that a subpopulation of mesolimbic dopamine neurons encodes full return distributions and projects broadly to the striatum, i.e. targetting both ventral and dorsal subregions of the striatum. My findings reveal that a “distributional critic” architecture is implemented in the brain, in which both the critic and the actor receive distributional prediction error signals to update their respective value representation and behavioral policy. My findings extend the architecture used in state-of-the-art machine learning algorithms for continuous control tasks, in which typicaly only the critic is updated using distributional prediction errors.
+
+My findings also reveal a more complex architecture of the dopamine projections to the basal ganglia than what has been previously proposed: there is both compartimentalization and broadcasting of function-specific information across the striatum. 
+
+To achieve these insights, I developed several cutting-edge tools: two-photon calcium imaging of dopamine neurons via GRIN lenses, simultaneous multi-site fiber photometry of dopamine axons across the striatum, and multi-site optogenetic stimulation paired with Neuropixels 2.0 recordings to map functional connectivity. These innovations have enabled a more comprehensive view of dopamine’s diverse roles in encoding value, action, and threat across the striatum.
+
+In addition, I’ve collaborated with computational neuroscientists — including Prof. Demba Ba’s group at the Kempner Institute — to build deep learning tools for analyzing neural signals during naturalistic behaviors. These methods help us better decode the complex, multiplexed information carried by neuromodulatory systems during real-world decision-making.
+
+Altogether, my research bridges cutting-edge experimental neuroscience and computational theory to understand how neuromodulatory systems enable flexible and adaptive behavior. 
