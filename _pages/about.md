@@ -7,8 +7,6 @@
  - /about/
  - /about.html
 ---
-
-<h2> About </h2>
 I am a biomedical engineer and neuroscientist interested in deciphering the role of the neuromodulators dopamine and serotonin in learning and cognitive flexibility. I use neurophysiology and the machine learning framework of distributional reinforcement learning to elucidate the computational and neural circuit mechanisms through which they modulate learning, cognitive states, and behavioral adaptability. 
 
 My research bridges the gap between biological and artificial intelligence.
