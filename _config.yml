@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sara Matias"
-  pronouns         : "she/her" # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Research Associate"
   location         : "Cambridge, MA, USA"
   employer         : "Harvard University"
