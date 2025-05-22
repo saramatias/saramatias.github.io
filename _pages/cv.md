@@ -9,4 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/resume.pdf" type="application.pdf">
+<object data="/files/resume.pdf" type="application/pdf" width="100%"> </object>
+
+<!-- <embed src="/files/resume.pdf" type="application.pdf"> This does not work -->
