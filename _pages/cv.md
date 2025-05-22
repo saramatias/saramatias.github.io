@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-xfun::embed_file("resume.pdf")
+![["resume.pdf"]]
