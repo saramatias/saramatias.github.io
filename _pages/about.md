@@ -34,3 +34,24 @@ To achieve these insights, I developed several cutting-edge tools: two-photon ca
 In addition, I’ve collaborated with computational neuroscientists — including [Prof. Demba Ba’s group](https://crisp.seas.harvard.edu/people.html) at the Harvard John A. Paulson School of Engineering and Applied Sciences and Kempner Institute — to build deep learning tools for analyzing neural signals during naturalistic behaviors. These methods help us better decode the complex, multiplexed information carried by neuromodulatory systems during real-world decision-making.
 
 Altogether, my research bridges cutting-edge experimental neuroscience and computational theory to understand how neuromodulatory systems enable flexible and adaptive behavior. 
+
+<h2>Funding and Awards</h2>
+
+My academic journey has been generously supported by public and private institutions:
+
+Fellowships
+2018 - Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
+2008 - Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008)
+
+Academic Recognition
+2021 - Harvard Brain Science Initiative Young Scientist Transitions Award.
+2021 - Graduate Women in Science Honorable Mention, USA
+
+Research Grants
+2022 - NARSAD Young Investigator Grant, Brain and Behavior Research Foundation (grant #30035), NY, USA
+
+Travel awards
+2025 – Upcoming: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan
+2020 - WIST Fund (Women in Science Travel Fund) grant for COVID-19 Relief on unanticipated childcare expenses.
+2015 - Convergent Science Network of Biomimetics and Neurotechnology travel award to attend the OIST Computational Neuroscience Summer Course in Okinawa, Japan.
+2015 - Janelia Farm Research Campus travel award to attend the conference on Motivational Circuits in Natural and Learned Behaviors Janelia Farm Research Campus, Virginia, USA.
