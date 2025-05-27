@@ -39,19 +39,29 @@ Altogether, my research bridges cutting-edge experimental neuroscience and compu
 
 My academic journey has been generously supported by public and private institutions:
 
-Fellowships
-2018 - Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
+<b> Fellowships </b>
+
+2018 - Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) ![Alt text](./images/2022_FCT_Logo+_B_horizontal_preto.png)
+
 2008 - Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008)
 
-Academic Recognition
-2021 - Harvard Brain Science Initiative Young Scientist Transitions Award.
-2021 - Graduate Women in Science Honorable Mention, USA
+<b> Academic Recognition </b>
 
-Research Grants
+2021 - Harvard Brain Science Initiative Young Scientist Transitions Award
+
+2021 - Graduate Women in Science Honorable Mention
+
+<b> Research Grants </b>
+
 2022 - NARSAD Young Investigator Grant, Brain and Behavior Research Foundation (grant #30035), NY, USA
 
-Travel awards
+<b> Travel awards </b>
+
 2025 – Upcoming: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan
-2020 - WIST Fund (Women in Science Travel Fund) grant for COVID-19 Relief on unanticipated childcare expenses.
-2015 - Convergent Science Network of Biomimetics and Neurotechnology travel award to attend the OIST Computational Neuroscience Summer Course in Okinawa, Japan.
-2015 - Janelia Farm Research Campus travel award to attend the conference on Motivational Circuits in Natural and Learned Behaviors Janelia Farm Research Campus, Virginia, USA.
+
+2020 - WIST Fund (Women in Science Travel Fund) grant for COVID-19 Relief on unanticipated childcare expenses
+
+2015 - Convergent Science Network of Biomimetics and Neurotechnology travel award to attend the OIST Computational Neuroscience Summer Course in Okinawa, Japan
+
+2015 - Janelia Farm Research Campus travel award to attend the conference on Motivational Circuits in Natural and Learned Behaviors Janelia Farm Research Campus, Virginia, USA
+
