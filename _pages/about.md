@@ -39,11 +39,11 @@ Altogether, my research bridges cutting-edge experimental neuroscience and compu
 
 My academic journey has been generously supported by public and private institutions:
 
-<img src="/images/2022_FCT_logo.png" alt="FCT" style="height: 50px;margin-right: 30px;"> <img src="/images/HFSP_horizontal_blue_0.jpg" alt="HFSP" style="height: 70px;margin-right: 30px;"> <img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 30px; margin-right: 30px;margin-bottom:20px;"> <img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 60px;margin-right: 30px;"> <img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 70px;margin-right: 00px;"> 
+<img src="/images/2022_FCT_logo.png" alt="FCT" style="height: 50px;margin-right: 30px;"> <img src="/images/HFSP_horizontal_blue_0.jpg" alt="HFSP" style="height: 70px;margin-right: 30px;"> <img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 30px; margin-right: 30px;margin-bottom:20px;"> <img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 60px;margin-right: 30px;"> <img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 70px;margin-top: 60px;"> 
 
 
 
-
+<font size="3">
 <b> Travel awards </b>
 
 2025 – Upcoming: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan
@@ -54,3 +54,4 @@ My academic journey has been generously supported by public and private institut
 
 2015 - Janelia Farm Research Campus travel award to attend the conference on Motivational Circuits in Natural and Learned Behaviors Janelia Farm Research Campus, Virginia, USA
 
+</font>
