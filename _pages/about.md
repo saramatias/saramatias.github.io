@@ -39,7 +39,7 @@ Altogether, my research bridges cutting-edge experimental neuroscience and compu
 
 My academic journey has been generously supported by public and private institutions:
 
-<img src="/images/2022_FCT_logo.png" alt="FCT" style="height: 50px;margin-right: 10px;" alt="Centered image">     <img src="/images/HFSP_horizontal_blue_0.jpg" alt="HFSP" style="height: 60px;margin-right: 10px;">     <img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 30px;margin-right: 10px;" alt="Centered image">     <img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 60px;margin-right: 10px;">     <img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 70px;margin-right: 10px;"> 
+<img src="/images/2022_FCT_logo.png" alt="FCT" style="height: 50px;margin-right: 100px;">     <img src="/images/HFSP_horizontal_blue_0.jpg" alt="HFSP" style="height: 60px;margin-right: 10px;">     <img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 30px;margin-right: 10px;margin-bottom:20px;">     <img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 60px;margin-right: 10px;">     <img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 70px;margin-right: 10px;"> 
 
 
 <b> Travel awards </b>
