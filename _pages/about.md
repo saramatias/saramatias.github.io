@@ -41,19 +41,19 @@ My academic journey has been generously supported by public and private institut
 
 <b> Fellowships </b>
 
-2018 - Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) <img src="/images/HFSP_logo-blue-6x6.jpg" alt="HFSP" style="width: 50px; height: 50px;">
+<img src="/images/HFSP_logo-blue-6x6.jpg" alt="HFSP" style="width: 50px; height: 50px;"> Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
 
-2008 - Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008) <img src="/images/2022_FCT_Logo+_B_horizontal_preto.png" width="80" height="50"> <!-- ![Alt text](./images/2022_FCT_Logo+_B_horizontal_preto.png) -->
+<img src="/images/2022_FCT_Logo+_B_horizontal_preto.png" alt="FCT" style="width: 80px; height: 50px;"> Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008) <!- <img src="/images/2022_FCT_Logo+_B_horizontal_preto.png" width="80" height="50"> - ![Alt text](./images/2022_FCT_Logo+_B_horizontal_preto.png) -->
 
 <b> Academic Recognition </b>
 
-2021 - Harvard Brain Science Initiative Young Scientist Transitions Award
+<img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="width: 100px; height: 50px;"> Harvard Brain Science Initiative Young Scientist Transitions Award 2021
 
-2021 - Graduate Women in Science Honorable Mention
+<img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="width: 50px; height: 50px;"> Graduate Women in Science Honorable Mention 2021
 
 <b> Research Grants </b>
 
-2022 - NARSAD Young Investigator Grant, Brain and Behavior Research Foundation (grant #30035), NY, USA
+<img src="/images/Brain_Behavior_Research_Foundation_logo" alt="GWS" style="width: 70px; height: 50px;"> NARSAD Young Investigator Grant 2022, Brain and Behavior Research Foundation (grant #30035), NY, USA
 
 <b> Travel awards </b>
 
