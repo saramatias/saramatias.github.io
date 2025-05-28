@@ -41,9 +41,9 @@ My academic journey has been generously supported by public and private institut
 
 <b> Fellowships </b>
 
-2018 - Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) ![Alt text](./images/2022_FCT_Logo+_B_horizontal_preto.png)
+2018 - Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
 
-2008 - Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008)
+2008 - Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008) <img src="images/2022_FCT_Logo+_B_horizontal_preto.png" width="400" height="200"> <!-- ![Alt text](./images/2022_FCT_Logo+_B_horizontal_preto.png) -->
 
 <b> Academic Recognition </b>
 
