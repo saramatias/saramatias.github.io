@@ -41,19 +41,19 @@ My academic journey has been generously supported by public and private institut
 
 <b> Fellowships </b>
 
-<img src="/images/HFSP_logo-blue-6x6.jpg" alt="HFSP" style="width: 50px; height: 50px;"> Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
+<img src="/images/HFSP_logo-blue-6x6.jpg" alt="HFSP" style="width: 30px; height: 30px;"> Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
 
-<img src="/images/2022_FCT_Logo+_B_horizontal_preto.png" alt="FCT" style="width: 80px; height: 50px;"> Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008) <!- <img src="/images/2022_FCT_Logo+_B_horizontal_preto.png" width="80" height="50"> - ![Alt text](./images/2022_FCT_Logo+_B_horizontal_preto.png) -->
+<img src="/images/2022_FCT_Logo_B_horizontal_preto.png" alt="FCT" style="width: 80px; height: 30px;"> Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008)
 
 <b> Academic Recognition </b>
 
-<img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="width: 100px; height: 50px;"> Harvard Brain Science Initiative Young Scientist Transitions Award 2021
+<img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="width: 100px; height: 30px;"> Harvard Brain Science Initiative Young Scientist Transitions Award 2021
 
-<img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="width: 50px; height: 50px;"> Graduate Women in Science Honorable Mention 2021
+<img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="width: 50px; height: 30px;"> Graduate Women in Science Honorable Mention 2021
 
 <b> Research Grants </b>
 
-<img src="/images/Brain_Behavior_Research_Foundation_logo" alt="GWS" style="width: 70px; height: 50px;"> NARSAD Young Investigator Grant 2022, Brain and Behavior Research Foundation (grant #30035), NY, USA
+<img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="width: 70px; height: 30px;"> NARSAD Young Investigator Grant 2022, Brain and Behavior Research Foundation (grant #30035), NY, USA
 
 <b> Travel awards </b>
 
