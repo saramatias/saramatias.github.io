@@ -39,7 +39,7 @@ Altogether, my research bridges cutting-edge experimental neuroscience and compu
 
 My academic journey has been generously supported by public and private institutions:
 
-<a href="https://www.fct.pt/en/"><img src="/images/2022_FCT_logo.png" alt="FCT" style="height: 50px;margin-right: 30px;"></a> <a href="https://www.hfsp.org/"><img src="/images/HFSP_horizontal_blue_0.jpg" alt="HFSP" style="height: 70px;margin-right: 30px;"></a> <a href="https://brain.harvard.edu/"><img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 30px; margin-right: 30px;margin-bottom:20px;"></a> <a href="https://www.gwis.org/"><img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 60px;margin-right: 30px;"></a> <a href="https://bbrfoundation.org/"><img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 80px;margin-top: 60px;"></a> 
+<a href="https://www.fct.pt/en/"><img src="/images/2022_FCT_logo.png" alt="FCT" style="height: 50px;margin-right: 30px;"></a> <a href="https://www.hfsp.org/"><img src="/images/HFSP_horizontal_blue_0.jpg" alt="HFSP" style="height: 70px;margin-right: 30px;"></a> <a href="https://brain.harvard.edu/"><img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 30px; margin-right: 30px;margin-bottom:20px;"></a> <a href="https://www.gwis.org/"><img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 60px;margin-right: 30px;"></a> <a href="https://bbrfoundation.org/"><img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 80px;margin-top: 50px;"></a> 
 
 
 
@@ -47,15 +47,15 @@ My academic journey has been generously supported by public and private institut
 <b> Travel awards </b>
 
 
-2025 – <it> Upcoming </it>: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan
+2025 – <it> Upcoming </it>: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan <br>
 
 
-2020 - WIST Fund (Women in Science Travel Fund) grant for COVID-19 Relief on unanticipated childcare expenses
+2020 - WIST Fund (Women in Science Travel Fund) grant for COVID-19 Relief on unanticipated childcare expenses <br>
 
 
-2015 - Convergent Science Network of Biomimetics and Neurotechnology travel award to attend the OIST Computational Neuroscience Summer Course in Okinawa, Japan
+2015 - Convergent Science Network of Biomimetics and Neurotechnology travel award to attend the OIST Computational Neuroscience Summer Course in Okinawa, Japan <br>
 
 
-2015 - Janelia Farm Research Campus travel award to attend the conference on Motivational Circuits in Natural and Learned Behaviors Janelia Farm Research Campus, Virginia, USA
+2015 - Janelia Farm Research Campus travel award to attend the conference on Motivational Circuits in Natural and Learned Behaviors Janelia Farm Research Campus, Virginia, USA <br>
 
 </font>
