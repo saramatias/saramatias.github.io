@@ -43,17 +43,17 @@ My academic journey has been generously supported by public and private institut
 
 <img src="/images/HFSP_logo-blue-6x6.jpg" alt="HFSP" style="width: 50px; height: 50px;"> Human Frontier Science Program Long-term Postdoctoral Fellowship (LT00801/2018) 
 
-<img src="/images/2022_FCT_Logo_B_horizontal_preto.png" alt="FCT"> Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008)
+<img src="/images/2022_FCT_Logo_B_horizontal_preto.png" alt="FCT" style="height: 50px;"> Portuguese Foundation for Science and Technology (Fundação para a Ciência e Tecnologia) Ph.D. fellowship (SFRH / BD / 43072 / 2008)
 
 <b> Academic Recognition </b>
 
-<img src="/images/hbi_homepage_logo_700px.png" alt="HBI"> Harvard Brain Science Initiative Young Scientist Transitions Award 2021
+<img src="/images/hbi_homepage_logo_700px.png" alt="HBI" style="height: 50px;"> Harvard Brain Science Initiative Young Scientist Transitions Award 2021
 
-<img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS"> Graduate Women in Science Honorable Mention 2021
+<img src="/images/graduatewomeninsciencelogo.jpg" alt="GWS" style="height: 50px;"> Graduate Women in Science Honorable Mention 2021
 
 <b> Research Grants </b>
 
-<img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS"> NARSAD Young Investigator Grant 2022, Brain and Behavior Research Foundation (grant #30035), NY, USA
+<img src="/images/Brain_Behavior_Research_Foundation_logo.png" alt="GWS" style="height: 50px;"> NARSAD Young Investigator Grant 2022, Brain and Behavior Research Foundation (grant #30035), NY, USA
 
 <b> Travel awards </b>
 
