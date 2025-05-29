@@ -47,7 +47,7 @@ My academic journey has been generously supported by public and private institut
 <b> Travel awards </b> <br>
 
 
-2025 – <it> Upcoming </it>: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan <br>
+2025 – <i> Upcoming </i>: Japan Neuroscience Society Neuroscience2025 travel award, to attend The 48th Annual Meeting of the Japan Neuroscience Society, Niigata, Japan <br>
 
 
 2020 - WIST Fund (Women in Science Travel Fund) grant for COVID-19 Relief on unanticipated childcare expenses <br>
